@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+</head>
+<body>
+    <nav>
+        <ul>
+          <li><a href="./index.html">about</a></li>
+          <li><a href="./about.html">about</a></li>
+        </ul>
+    </nav>
+    <form>
+        <div>
+          <label>Please enter your name: </label>
+          <input type="text" name="name" id="name" required>
+        </div>
+        <div>
+          <label>Please enter your email: </label>
+          <input type="email" name="email" id="email" required>
+        </div>
+        <div>
+            <label>Reason for contact</label>
+            <select name="contact-reason"></select>
+            <option>Saying hi!</option>
+            <option>Looking for a contractor!</option>
+            <option>Interested in an interview!</option>
+        </div>
+        <div>
+            <label>Any additional comments:</label>
+            <input type="text">
+        </div>
+        <div>
+          <input type="submit" value="Submit">
+        </div>
+      </form>
+</body>
+</html>
