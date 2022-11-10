@@ -15,11 +15,6 @@ h1 {
     margin: 0;
 }
 
-p {
-    line-height: 1.4em;
-    width: 700px;
-}
-
 #blog {
     border-top: 1px dotted #ccc;
 }
@@ -56,7 +51,7 @@ a[href="./index.html"]{
     margin-left: 0px;
 }
 
-.format{
+p {
     line-height: 1.4em;
     width: 700px;
 }
