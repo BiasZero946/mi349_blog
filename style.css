@@ -29,6 +29,6 @@ p {
     border-bottom: 1px dotted #ccc;
 }
 
-a[class~="header"]{
+a[h5="Subscribe"]{
     color:aqua;
 }
