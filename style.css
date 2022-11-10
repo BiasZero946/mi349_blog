@@ -55,3 +55,8 @@ a[href="./index.html"]{
     float: left;
     margin-left: 0px;
 }
+
+.format{
+    line-height: 1.4em;
+    width: 700px;
+}
