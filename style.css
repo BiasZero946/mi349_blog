@@ -48,4 +48,5 @@ a[href="./index.html"]{
   posistion: -webkit-sticky;
   position: sticky;
   top: 0;
+  font-size: 2em;
 }
