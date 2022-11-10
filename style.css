@@ -60,4 +60,5 @@ p {
 .caption{
     width: 10em;
     border: 2px solid black;
+    margin-left: 10px;
 }
