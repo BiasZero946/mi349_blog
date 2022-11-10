@@ -29,6 +29,6 @@ p {
     border-bottom: 1px dotted #ccc;
 }
 
-p[class~="header"]{
+a[class~="header"]{
     color:aqua;
 }
