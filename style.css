@@ -7,7 +7,6 @@ body {
     margin: 40px;
     padding: 40px;
     color: #242424;
-    border-top: 10px solid #242424;
     background: #fff;
 }
 
@@ -35,8 +34,18 @@ a[href="./about.html"]{
 
 a[href="./contact.html"]{
     color:aqua;
+    position: absolute;
+    right: 50px;
 }
 
 a[href="./index.html"]{
     color:aqua;
+    position: absolute;
+    right: 680px;
+}
+.navigationa{
+  background: black;
+  posistion: -webkit-sticky;
+  position: sticky;
+  top: 0;
 }
