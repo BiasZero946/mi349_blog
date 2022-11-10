@@ -45,8 +45,18 @@ a[href="./index.html"]{
 }
 .navigationa{
   background: black;
-  posistion: -webkit-sticky;
+  position: -webkit-sticky;
   position: sticky;
   top: 0;
   font-size: 2em;
+}
+
+.imagea{
+    float: left;
+    margin-right: 15px;
+}
+
+.imageb{
+    float: left;
+    margin-right: 15px;
 }
