@@ -29,6 +29,14 @@ p {
     border-bottom: 1px dotted #ccc;
 }
 
-a[h5="Subscribe"]{
+a[href="./about.html"]{
+    color:aqua;
+}
+
+a[href="./contact.html"]{
+    color:aqua;
+}
+
+a[href="./index.html"]{
     color:aqua;
 }
