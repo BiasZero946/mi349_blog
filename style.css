@@ -1,5 +1,5 @@
 html {
-    background: #e3e3e3;
+    background: #fff;
 }
 
 body {
@@ -7,7 +7,7 @@ body {
     margin: 40px;
     padding: 40px;
     color: #242424;
-    background: #fff;
+    background: #e3e3e3;
 }
 
 h1 {
