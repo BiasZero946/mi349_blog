@@ -55,3 +55,8 @@ p {
     line-height: 1.4em;
     width: 700px;
 }
+
+.caption{
+    width: 15em;
+    border: 2px solid black;
+}
