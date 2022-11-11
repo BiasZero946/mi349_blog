@@ -20,7 +20,6 @@ h1 {
 
 .blog-post{
     border-bottom: 1px dotted #ccc;
-    display: flex;
 }
 
 a[href="./about.html"]{
